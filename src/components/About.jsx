@@ -43,16 +43,15 @@ const AboutSection = () => {
             </span>
 
             <h2 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-[#2D3E50] leading-[1.1] mb-6">
-              Nothing Feels Better Than <br className="hidden lg:block" />A
-              Successful Climb
+              Journeys Built on Trust, Comfort & Care
             </h2>
 
             <p className="text-slate-500 text-sm md:text-base leading-relaxed max-w-lg mb-8">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-              reprehenderit in voluptate velit esse cillum dolore.
+              Lekshmi Narayana Tours & Travels is a trusted travel partner
+              committed to delivering safe, comfortable, and well-planned
+              journeys across South India. With years of experience in
+              pilgrimage, leisure, and custom travel services, we focus on
+              reliability, timely service, and customer satisfaction.
             </p>
 
             {/* CTA Button */}
