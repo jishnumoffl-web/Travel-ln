@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Lekshmi Narayana Associates",
-  description: "Tours and travels in chengannur",
+  title: "Trravelpeak Travel And Tours",
+  description: "Tours and travels in kollam",
 };
 
 export default function RootLayout({ children }) {

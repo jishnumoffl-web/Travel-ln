@@ -16,7 +16,7 @@ export default function Home() {
       <AboutSection />
       <DestinationsSection />
       <Package />
-      <SabarimalaPackage />
+      {/* <SabarimalaPackage /> */}
       <Testimonials />
       <ContactSection />
       <Footer />

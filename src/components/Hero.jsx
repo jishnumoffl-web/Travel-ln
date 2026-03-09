@@ -45,12 +45,9 @@ const HeroSection = () => {
             className="h-8 object-contain"
           /> */}
           <div className="leading-none select-none ">
-            <h1 className="font-[Cinzel] text-[8px] md:text-sm tracking-[0.25em] text-white">
-              LEKSHMI NARAYAN
-            </h1>
-            <p className="font-[Cinzel] text-[7px] md:text-xs tracking-[0.6em] text-white/80 text-center mt-1">
-              ASSOCIATES
-            </p>
+            <div>
+              <img src="/images/logo2.webp" alt="" className="h-16" />
+            </div>
           </div>
 
           {/* Desktop Menu */}
