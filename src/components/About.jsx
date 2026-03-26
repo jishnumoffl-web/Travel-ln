@@ -47,8 +47,8 @@ const AboutSection = () => {
             </h2>
 
             <p className="text-slate-500 text-sm md:text-base leading-relaxed max-w-lg mb-8">
-              Travelpeak Tours & Travels is a trusted travel partner committed
-              to delivering safe, comfortable, and well-planned journeys across
+              Durga Tours & Travels is a trusted travel partner committed to
+              delivering safe, comfortable, and well-planned journeys across
               South India. With years of experience in pilgrimage, leisure, and
               custom travel services, we focus on reliability, timely service,
               and customer satisfaction.
