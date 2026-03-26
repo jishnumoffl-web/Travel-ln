@@ -37,7 +37,7 @@ const ContactSection = () => {
               {
                 icon: <Phone size={18} />,
                 title: "Phone",
-                value: "0474 297 0879",
+                value: "+91 8714135772",
               },
               {
                 icon: <MessageCircle size={18} />,
@@ -47,13 +47,12 @@ const ContactSection = () => {
               {
                 icon: <Mail size={18} />,
                 title: "Email",
-                value: "travelpeakklm@gmail.com",
+                value: "durgatravels@gmail.com",
               },
               {
                 icon: <MapPin size={18} />,
                 title: "Location",
-                value:
-                  "AKL COMPLEX,OPP CORPORATION BANK PALLIMUKKU , Kollam (Quilon), India, 691010",
+                value: "Nagampadam,Kottayam,Kerala 686001",
               },
             ].map((item, i) => (
               <div key={i} className="flex items-start gap-4">

@@ -18,12 +18,13 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10 mb-12">
           {/* Brand */}
           <div>
-            <h3 className="text-xl font-black mb-4">
+            {/* <h3 className="text-xl font-black mb-4">
               Lekshmi Narayan Associates
-            </h3>
+            </h3> */}
+            <img src="/images/durga.webp" alt="" className="h-18" />
             <p className="text-sm text-gray-400 leading-relaxed">
-              Trusted Sabarimala pilgrimage travel service offering safe,
-              comfortable, and well-organized devotional journeys.
+              Trusted travel service offering safe, comfortable, and
+              well-organized devotional journeys.
             </p>
           </div>
 
@@ -34,9 +35,9 @@ const Footer = () => {
             </h4>
             <ul className="space-y-3 text-sm text-gray-400">
               <li className="hover:text-white cursor-pointer">Home</li>
-              <li className="hover:text-white cursor-pointer">
+              {/* <li className="hover:text-white cursor-pointer">
                 Sabarimala Package
-              </li>
+              </li> */}
               <li className="hover:text-white cursor-pointer">Testimonials</li>
               <li className="hover:text-white cursor-pointer">Contact</li>
             </ul>
@@ -68,16 +69,16 @@ const Footer = () => {
 
             <ul className="space-y-3 text-sm text-gray-400">
               <li className="flex items-center gap-3">
-                <Phone size={14} /> +91 8921734449
+                <Phone size={14} /> +91 8714135772
               </li>
               <li className="flex items-center gap-3">
                 <MessageCircle size={14} /> WhatsApp Support
               </li>
               <li className="flex items-center gap-3">
-                <Mail size={14} /> lekshminarayantourstravels@gmail.com
+                <Mail size={14} /> durgatravels@gmail.com
               </li>
               <li className="flex items-center gap-3">
-                <MapPin size={14} /> Thittamle,Chengannur, Kerala
+                <MapPin size={14} /> Nagampadam,Kottayam,Kerala 686001
               </li>
             </ul>
           </div>

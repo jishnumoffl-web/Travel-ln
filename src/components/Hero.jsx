@@ -46,7 +46,7 @@ const HeroSection = () => {
           /> */}
           <div className="leading-none select-none ">
             <div>
-              <img src="/images/logo2.webp" alt="" className="h-16" />
+              <img src="/images/durga.webp" alt="" className="h-16" />
             </div>
           </div>
 
