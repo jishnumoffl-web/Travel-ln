@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Trravelpeak Travel And Tours",
-  description: "Tours and travels in kollam",
+  title: "Durga Travel And Tours",
+  description: "Tours and travels in Kottayam",
 };
 
 export default function RootLayout({ children }) {
